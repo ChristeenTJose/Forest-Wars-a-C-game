@@ -2,7 +2,7 @@
 ===
 Author: Christeen T Jose
 ---
-### Project demonstration can be viewed from [YouTube](https://www.youtube.com/watch?v=zj5-134iEjQ)
+### Project demonstration can be viewed from [YouTube](https://youtu.be/zj5-134iEjQ)
 
 [Released under GNU General Public License v3.0](https://github.com/ChristeenTJose/Forest-Wars-a-C-game/blob/master/LICENSE)
 

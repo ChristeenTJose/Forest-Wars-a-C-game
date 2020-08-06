@@ -4,7 +4,6 @@ Author: Christeen T Jose
 ---
 ### Project demonstration can be viewed from [YouTube](https://youtu.be/zj5-134iEjQ)
 
-[Released under GNU General Public License v3.0](https://github.com/ChristeenTJose/Forest-Wars-a-C-game/blob/master/LICENSE)
 
 ---
 > *“Forest wars is a 2019 strategic; maze based multiplayer game developed using the 
